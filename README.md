@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rajneesh a second-year Engineering Student
 - 👀 I’m interested in Coding and building tech products that solve problems at scale
 - 🌱 I’m currently learning C++ with DSA and MERN Stack.
-- 📫 You can connect with me on Linkedin (www.linkedin.com/in/rajneesh007) and X (https://x.com/iamRaj2005)
+- 📫 You can connect with me on Linkedin (www.linkedin.com/in/rajneesh007) and X (https://x.com/rajneesh_005)
